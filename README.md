@@ -2,7 +2,7 @@
 
 **`Senior Web Developer | Digital Creative | Terrible Gamer `**
 
-Hi, I'm Liam! A senior web developer who predominantly works with frontend technologies but I've got my fingers in the full-stack pie. From start to finish all personal projects are planned, designed and built from the ground up (even if it means a few unfinished kanban boards). If I'm not thinking of a new project, you'll probably find me playing with my german shepherd or playing games at a less-than-average level.
+Hi, I'm Liam! A senior web developer who predominantly works with frontend technologies but I've got my fingers in the full-stack pie. From start to finish all personal projects are planned, designed and built from the ground up (even if it means a few unfinished kanban boards). If I'm not thinking of a new project, you'll probably find me playing with my border collie or playing games at a less-than-average level.
 
 ---
 
